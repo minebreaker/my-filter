@@ -1,0 +1,16 @@
+! ad
+||ad.dmm.com^$third-party
+||accesstrade.net^$third-party
+||adingo.jp^$third-party
+
+##a[href*='ad.dmm.com']
+##a[href*='dlsite.com/home/dlaf/=/aid/']
+
+pick-app.net
+
+! antena
+rss.solty.biz
+||blogroll.livedoor.net^$third-party
+||social-plugins.line.me^$third-party
+||d.line-scdn.net^$third-party
+||b.st-hatena.com^$third-party
