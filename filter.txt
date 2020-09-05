@@ -8,6 +8,9 @@
 
 pick-app.net
 
+! wikipedia ad
+wikipedia.org##.frb
+
 ! antena
 rss.solty.biz
 ||blogroll.livedoor.net^$third-party
