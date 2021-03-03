@@ -10,6 +10,7 @@ pick-app.net
 
 ! wikipedia ad
 wikipedia.org##.frb
+wikipedia.org###siteNotice
 
 ! antena
 rss.solty.biz
@@ -19,5 +20,7 @@ rss.solty.biz
 ||b.st-hatena.com^$third-party
 
 
-! Blocks Bloomberg video
+! Blocks Bloomberg
 www.bloomberg.com##.videoModule
+www.bloomberg.com###paywall-banner
+www.bloomberg.com##.navi-push-notification-prompt
