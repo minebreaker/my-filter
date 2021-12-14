@@ -14,10 +14,11 @@ wikipedia.org###siteNotice
 
 ! antena
 rss.solty.biz
-||blogroll.livedoor.net^$third-party
 ||social-plugins.line.me^$third-party
 ||d.line-scdn.net^$third-party
 ||b.st-hatena.com^$third-party
+blogroll.livedoor.net/js/*
+parts.blog.livedoor.jp/plugin/*
 
 
 ! Blocks Bloomberg
