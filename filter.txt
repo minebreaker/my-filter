@@ -25,3 +25,7 @@ parts.blog.livedoor.jp/plugin/*
 www.bloomberg.com##.videoModule
 www.bloomberg.com###paywall-banner
 www.bloomberg.com##.navi-push-notification-prompt
+
+
+! Twitterの「さらに表示」広告ツイートを消す
+twitter.com##:xpath(//article[descendant::span[text() = 'さらに表示']])
