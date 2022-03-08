@@ -27,5 +27,9 @@ www.bloomberg.com###paywall-banner
 www.bloomberg.com##.navi-push-notification-prompt
 
 
-! Twitterの「さらに表示」広告ツイートを消す
-twitter.com##:xpath(//article[descendant::span[text() = 'さらに表示']])
+! Twitter
+! 「さらに表示」広告ツイートを消す
+twitter.com##:xpath(//article[descendant::span[text() = 'さらに表示']]/../../..)
+! おすすめトピック
+twitter.com##:xpath(//div/h2[@role='heading' and descendant::span[contains(text(), 'トピック')]]/../../..)
+twitter.com##:xpath(//div/h2[@role='heading' and descendant::span[contains(text(), 'トピック')]]/../../../following-sibling::div[1])
