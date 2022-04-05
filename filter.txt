@@ -5,6 +5,7 @@
 
 ##a[href*='ad.dmm.com']
 ##a[href*='dlsite.com/home/dlaf/=/aid/']
+##a[href*='rcv.ixd.dmm.com']
 
 pick-app.net
 
