@@ -32,7 +32,7 @@ www.bloomberg.com##.navi-push-notification-prompt
 ! 広告ツイートを消す(「さらに表示」ボタンがある)
 twitter.com##:xpath(//article[descendant::span[text() = 'さらに表示']]/../../..)
 ! おすすめトピック/リスト
-twitter.com##:xpath(//div/h2[@role='heading' and descendant::span[contains(text(), 'トピック')]]/../../..)
-twitter.com##:xpath(//div/h2[@role='heading' and descendant::span[contains(text(), 'トピック')]]/../../../following-sibling::*[1 or 2])
+twitter.com##:xpath(//div/h2[@role='heading' and descendant::span[contains(text(), 'おすすめトピック')]]/../../..)
+twitter.com##:xpath(//div/h2[@role='heading' and descendant::span[contains(text(), 'おすすめトピック')]]/../../../following-sibling::*[1 or 2])
 twitter.com##:xpath(//div/h2[@role='heading' and descendant::span[contains(text(), '新しいリスト')]]/../../..)
 twitter.com##:xpath(//div/h2[@role='heading' and descendant::span[contains(text(), '新しいリスト')]]/../../../following-sibling::*[1 or 2])
