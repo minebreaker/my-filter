@@ -26,6 +26,8 @@ parts.blog.livedoor.jp/plugin/*
 www.bloomberg.com##.videoModule
 www.bloomberg.com###paywall-banner
 www.bloomberg.com##.navi-push-notification-prompt
+! cookie overlay
+sourcepointcmp.bloomberg.co.jp
 
 
 ! Twitter
