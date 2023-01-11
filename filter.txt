@@ -21,6 +21,9 @@ rss.solty.biz
 blogroll.livedoor.net/js/*
 parts.blog.livedoor.jp/plugin/*
 
+! JS annoyance
+*##+js(aeld, contextmenu)
+*##+js(aeld, visibilitychange)
 
 ! Blocks Bloomberg
 www.bloomberg.com##.videoModule
