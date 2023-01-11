@@ -25,11 +25,9 @@ parts.blog.livedoor.jp/plugin/*
 ##+js(acis, disableSelection)
 ##+js(aopw, document.oncontextmenu)
 ##+js(aopw, document.visibilitychange)
-##+js(aopw, document.onbeforeunload)
 ##+js(aopw, document.beforeunload)
 ##+js(aeld, contextmenu)
 ##+js(aeld, visibilitychange)
-##+js(aeld, onbeforeunload)
 ##+js(aeld, beforeunload)
 
 
