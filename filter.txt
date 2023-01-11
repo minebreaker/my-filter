@@ -22,8 +22,16 @@ blogroll.livedoor.net/js/*
 parts.blog.livedoor.jp/plugin/*
 
 ! JS annoyance
-*##+js(aeld, contextmenu)
-*##+js(aeld, visibilitychange)
+##+js(acis, disableSelection)
+##+js(aopw, document.oncontextmenu)
+##+js(aopw, document.visibilitychange)
+##+js(aopw, document.onbeforeunload)
+##+js(aopw, document.beforeunload)
+##+js(aeld, contextmenu)
+##+js(aeld, visibilitychange)
+##+js(aeld, onbeforeunload)
+##+js(aeld, beforeunload)
+
 
 ! Blocks Bloomberg
 www.bloomberg.com##.videoModule
