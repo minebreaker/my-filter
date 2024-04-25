@@ -21,6 +21,14 @@ rss.solty.biz
 blogroll.livedoor.net/js/*
 parts.blog.livedoor.jp/plugin/*
 ##div.widgetarea
+##div.apcommentranking 
+##div.widget_text
+##div.app-follow-banner
+blog.livedoor.jp##nav.section-box
+blog.livedoor.jp##aside
+##div.category_ranking
+blog.livedoor.jp##footer.blog-footer.outside-border
+
 
 ! JS annoyance
 ##+js(acis, disableSelection)
