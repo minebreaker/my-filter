@@ -46,3 +46,5 @@ www.bloomberg.com###paywall-banner
 www.bloomberg.com##.navi-push-notification-prompt
 ! cookie overlay
 sourcepointcmp.bloomberg.co.jp
+
+toyokeizai.net##div.pi_modal
